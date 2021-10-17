@@ -84,7 +84,7 @@ github上的一个项目,搜索owlook会有好几个网站吧
 
 [owlook(owlook.com.cn)](https://www.owlook.com.cn/)
 
-![](img/随笔-浏览器-网站4.png)
+![](./img/随笔-浏览器-网站4.png)
 
 这里算是主要给计算机相关专业人员的推荐了
 
