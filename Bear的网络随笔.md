@@ -28,27 +28,27 @@
 
 具体操作如下:
 
-![](E:\CloudCode\nodes\img\随笔-浏览器1.png)
+![](img\随笔-浏览器1.png)
 
-![](E:\CloudCode\nodes\img\随笔-浏览器2.png)
+![](img\随笔-浏览器2.png)
 
 ### 浏览器扩展 
 
 然后嘛,下扩展,这很重要,能为我们带来许多便利
 
-![](E:\CloudCode\nodes\img\随笔-浏览器3.png)
+![](img\随笔-浏览器3.png)
 
 这里推荐几款通用的扩展吧
 
-![](E:\CloudCode\nodes\img\随笔-浏览器-扩展1.png)
+![](img\随笔-浏览器-扩展1.png)
 
 这个可自定义视频速度,最高16倍速看视频
 
-![](E:\CloudCode\nodes\img\随笔-浏览器-扩展2.png)
+![](img\随笔-浏览器-扩展2.png)
 
 这个我还没尝试过,有需求可以试试
 
-![](E:\CloudCode\nodes\img\随笔-浏览器-扩展3.png)
+![](img\随笔-浏览器-扩展3.png)
 
 就前面三个算是下载一下吧,之后推荐的一些插件会和某些软件配套使用,所以介绍该软件时再细谈.
 
@@ -56,7 +56,7 @@
 
 对于纯英文的网页,可以**单击鼠标右键**,选中翻译成中文
 
-![](E:\CloudCode\nodes\img\随笔-浏览器-翻译.png)
+![](img\随笔-浏览器-翻译.png)
 
 ### 收藏夹与集锦
 
@@ -64,13 +64,13 @@
 
 可使用 收藏夹或集锦
 
-![](E:\CloudCode\nodes\img\随笔-浏览器-收藏夹.png)
+![](img\随笔-浏览器-收藏夹.png)
 
 其中收藏夹会将网页的快捷访问放在下面,如上图下面的数个网站.
 
 集锦呢,大概是将你认为的多个网站进行分类汇总的
 
-![](E:\CloudCode\nodes\img\随笔-浏览器-集锦.png)
+![](img\随笔-浏览器-集锦.png)
 
 如,我在C++的集锦中,存放了三个相关的网站地址
 
@@ -84,19 +84,19 @@ github上的一个项目,搜索owlook会有好几个网站吧
 
 [owlook(owlook.com.cn)](https://www.owlook.com.cn/)
 
-![](E:\CloudCode\nodes\img\随笔-浏览器-网站4.png)
+![](img\随笔-浏览器-网站4.png)
 
 这里算是主要给计算机相关专业人员的推荐了
 
 [程序员导航(tooool.org)](http://tooool.org/)
 
-![](E:\CloudCode\nodes\img\随笔-浏览器-网站.png)
+![](img\随笔-浏览器-网站.png)
 
 [免费中国手机号码 在线接收短信 - 免费接码 (mianfeijiema.com)](https://mianfeijiema.com/sms/8616517525571)
 
 其实搜索引擎打开     搜索 临时手机号   有多个类似网站   同理   也有临时邮箱 之类.
 
-![](E:\CloudCode\nodes\img\随笔-浏览器-网站2.png)
+![](img/随笔-浏览器-网站2.png)
 
 [BugMeNot: share logins](http://bugmenot.com/)
 
@@ -104,6 +104,6 @@ github上的一个项目,搜索owlook会有好几个网站吧
 
 如下载JDK需要的Oracle账号
 
-![](E:\CloudCode\nodes\img\随笔-浏览器-网站3.png)
+![](img/随笔-浏览器-网站3.png)
 
 那就先这样吧,有时间慢慢更新!

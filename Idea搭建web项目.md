@@ -52,27 +52,27 @@
 
 ![](E:\CloudCode\nodes\img\idea 新建项目.png)
 
-<img src="E:\CloudCode\nodes\img\idea 新建项目-存储位置.png"  />
+![](img\idea 新建项目-存储位置.png)
 
 **在项目名上右击鼠标**   点击**添加框架支持**
 
-![](E:\CloudCode\nodes\img\idea 框架支持.png)
+![](img\idea 框架支持.png)
 
 勾选 **web应用程序**    然后直接**确定**
 
-![](E:\CloudCode\nodes\img\idea 添加web框架.png)
+![](img\idea 添加web框架.png)
 
 点击  **运行->编辑配置**        或右上角的   **添加配置**
 
-![](E:\CloudCode\nodes\img\idea 添加配置.png)
+![](img\idea 添加配置.png)
 
 点击**左上角** 加号(＋)    选择**Tomcat 服务器   本地**               注意：**不要选择TomEE  服务器！！！**
 
-![](E:\CloudCode\nodes\img\idea 添加Tomcat服务器.png)
+![](img\idea 添加Tomcat服务器.png)
 
 注意：选中包含了bin，conf，lib等目录的文件夹即可
 
-![](E:\CloudCode\nodes\img\idea tomcat设置.png)
+![](img\idea tomcat设置.png)
 
 说三遍：
 
@@ -86,11 +86,11 @@
 
 **到最后步骤了**                  文件->项目结构
 
-![](E:\CloudCode\nodes\img\idea 项目结构.png)
+![](img\idea 项目结构.png)
 
 **模块->依赖->加号(+)->选择库->Tomcat**       然后**添加所选项**
 
-![](E:\CloudCode\nodes\img\idea 项目支持.png)
+![](img\idea 项目支持.png)
 
 然后   勾选中    确定    即可
 
